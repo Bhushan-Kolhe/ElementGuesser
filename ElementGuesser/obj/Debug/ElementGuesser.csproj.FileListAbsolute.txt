@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\ElementGuesser\ElementGuesser\bin\Debug\ElementGuesser.exe.config
+C:\Users\HP\source\repos\ElementGuesser\ElementGuesser\bin\Debug\ElementGuesser.exe
+C:\Users\HP\source\repos\ElementGuesser\ElementGuesser\bin\Debug\ElementGuesser.pdb
+C:\Users\HP\source\repos\ElementGuesser\ElementGuesser\obj\Debug\ElementGuesser.csprojResolveAssemblyReference.cache
+C:\Users\HP\source\repos\ElementGuesser\ElementGuesser\obj\Debug\ElementGuesser.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ElementGuesser\ElementGuesser\obj\Debug\ElementGuesser.exe
+C:\Users\HP\source\repos\ElementGuesser\ElementGuesser\obj\Debug\ElementGuesser.pdb
